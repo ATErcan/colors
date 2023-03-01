@@ -1,0 +1,12 @@
+.keyword{
+	color: blueviolet;
+}
+.hex{
+	color: #ac4f26;
+}
+.rgb{
+	color: rgb(213, 14, 126);
+}
+.hsl{
+	color: hsl(100, 50%, 50%);
+}
