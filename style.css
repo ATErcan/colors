@@ -10,3 +10,16 @@
 .hsl{
 	color: hsl(100, 50%, 50%);
 }
+
+.keyword-wrapper{
+	background-color: aqua;
+}
+.hex-wrapper{
+	background-color: #4ffeab;
+}
+.rgb-wrapper{
+	background-color: rgb(10, 254, 103);
+}
+.hsl-wrapper{
+	background-color: hsl(261, 50%, 55%);
+}
